@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1385" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/drawable/ic_ok_svgrepo_com.xml" value="0.1385" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/drawable/ic_tasks_list_svgrepo_com.xml" value="0.1385" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/activity_create_edit2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/activity_preview.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/fragment_delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/pie_diagram_fragment.xml" value="0.8" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/pire_diagram_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/short_task_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/Studia_semestr_6/PRM_CW/MP1/app/src/main/res/layout/task_view.xml" value="0.14629629629629629" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
